@@ -95,6 +95,7 @@ export const Container = styled.div`
 
 export const Card = styled.div`
   width: 100%;
+  background-color: #ffffff;
   cursor: pointer;
   overflow: hidden;
   border-radius: 0.5rem;

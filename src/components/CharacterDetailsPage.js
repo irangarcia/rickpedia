@@ -58,7 +58,7 @@ const Character = () => {
                 padding: '2rem 0 .5rem',
               }}
             >
-              &#129040; Go back
+              Go back
             </p>
           </Link>
           <div style={{ marginBottom: '-5%' }}>
