@@ -10,7 +10,7 @@ Rickpedia is an
 - React
 - React Hooks
 - styled-components
-- [Rick and Morty Api](https://rickandmortyapi.com)
+- [Rick and Morty API](https://rickandmortyapi.com)
 
 ## 🎨 Layout
 
