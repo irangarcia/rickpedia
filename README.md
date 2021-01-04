@@ -3,7 +3,7 @@ Rickpedia</h1>
 
 ## 📃 Sobre
 
-Rickpedia is an
+Rickpedia is a Wikipedia of all Rick and Morty's characters.
 
 ## 💻 Tecnologias
 
@@ -14,4 +14,4 @@ Rickpedia is an
 
 ## 🎨 Layout
 
-![Foto da Aplicação](images/)
+![Foto da Aplicação](https://s8.gifyu.com/images/rickpedia-capture.md.gif)
