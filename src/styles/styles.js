@@ -5,6 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    background: #e9e9e9
   }
 
   h1, p {
@@ -76,7 +77,6 @@ export const Container = styled.div`
   column-gap: 1.25rem;
   row-gap: 1.5rem;
   padding: 2rem 4rem;
-  background: #e9e9e9;
 
   @media (max-width: 480px) {
     padding: 2rem 1rem;
@@ -232,7 +232,6 @@ export const Loading = styled.div`
 `;
 
 export const CharacterDetailsContainer = styled.div`
-  background-color: #e9e9e9;
   padding: 0 1rem 2rem;
 
   @media (min-width: 481px) and (max-width: 767px) {
