@@ -15,5 +15,5 @@ Rickpedia is a Wikipedia of all Rick and Morty's characters.
 ## 🎨 Layout
 
 <p align="center">
-![Foto da Aplicação](https://s8.gifyu.com/images/rickpedia-capture.md.gif)
+<img src="https://s8.gifyu.com/images/rickpedia-capture.md.gif" align="center">
 </p>
