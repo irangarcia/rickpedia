@@ -1,11 +1,11 @@
 <h1 align="center"> 
 Rickpedia</h1>
 
-## 📃 Sobre
+## 📃 About
 
 Rickpedia is an encyclopedia of all Rick and Morty's characters.
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - React
 - React Hooks
